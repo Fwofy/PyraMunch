@@ -13,6 +13,7 @@ PC
 
 <h2>Screenshots</h2>
 
+![Display](https://github.com/Fwofy/PyraMunch/assets/128760862/36893b8a-f4b6-4a4d-b388-35ff4dbc571b)
 ![Screenshot 2024-03-30 035150](https://github.com/Fwofy/PyraMunch/assets/128760862/97978d03-4f0f-46ee-a701-947454d651bc)
 ![Screenshot 2024-03-30 035208](https://github.com/Fwofy/PyraMunch/assets/128760862/eed35763-53ec-4883-bc6b-c759a8d44cf3)
 ![Screenshot 2024-03-30 035333](https://github.com/Fwofy/PyraMunch/assets/128760862/f96ebcbd-235c-4713-a6f4-d2149d752566)
